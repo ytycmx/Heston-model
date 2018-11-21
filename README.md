@@ -7,9 +7,9 @@ Matriculation number:
 # Final Project
 **Please edit this document in your browser and populate the name, surname and matriculation number above.**
 
-All the tasks are listed in FinalProject_2018.pdf included in this repository.
+All the tasks are listed in "FinalProject_2018.pdf" included in this repository.
 
-The background reading is provided in HestonModel.pdf included in this repository.
+The background reading is provided in "HestonModel.pdf" included in this repository.
 
 Please use your prefered way of commiting and pushing your work to GitHub - make sure your work is submitted (with all the new files added) by navigating to the website for your repository, checking it out to a new location on your computer and verifying that it still compiles and works as expected.
 
