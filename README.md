@@ -6,11 +6,16 @@ Matriculation number:
 
 # Final Project
 **Please edit this document in your browser and populate the name, surname and matriculation number above.**
+
 All the tasks are listed in FinalProject_2018.pdf included in this repository.
+
 The background reading is provided in HestonModel.pdf included in this repository.
+
 Please use your prefered way of commiting and pushing your work to GitHub - make sure your work is submitted (with all the new files added) by navigating to the website for your repository, checking it out to a new location on your computer and verifying that it still compiles and works as expected.
-Please make sure you submit a paper copy of your report to the MTO.
+
 If you're going to use a lab computer you might find useful "Git GUI guide.pdf" included in this repository.
+
+Please make sure you submit a paper copy of your report to the MTO.
 
 ## Deadline
 The deadline is Monday, 14 January 2019 at 12:00.
