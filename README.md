@@ -1,8 +1,8 @@
-Name: 
+Name: Zihao
 
-Surname: 
+Surname: Song
 
-Matriculation number: 
+Matriculation number: s1804548
 
 # Final Project
 **Please edit this document in your browser and populate the name, surname and matriculation number above.**
