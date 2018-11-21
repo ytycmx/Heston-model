@@ -1,0 +1,9 @@
+language: csharp
+dist: trusty
+group: stable
+solution: Heston.sln
+install:
+  - sudo apt-get install nunit-console
+  - nuget restore Code/Heston.sln
+script:
+  - msbuild /p:Configuration=Release Code/Heston.sln
