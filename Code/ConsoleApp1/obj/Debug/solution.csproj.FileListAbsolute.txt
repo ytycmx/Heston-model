@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp1\obj\Debug\solution.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp1\obj\Debug\solution.csproj.CoreCompileInputs.cache

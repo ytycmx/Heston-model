@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\HestonModel.dll
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\HestonModel.pdb
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\HestonModel.dll.config
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\obj\Debug\solution.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\obj\Debug\solution.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\obj\Debug\solution.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\AlglibCSharpLib.dll
+C:\Users\Lenovo\Documents\GitHub\final-project-ytycmx\Code\ConsoleApp2\bin\Debug\AlglibCSharpLib.pdb

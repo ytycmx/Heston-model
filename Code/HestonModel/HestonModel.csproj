@@ -47,6 +47,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HestonModelParameters.cs" />
+    <Compile Include="HestonRainbowoptionprice.cs" />
+    <Compile Include="Hestoncalibrator.cs" />
+    <Compile Include="HestonLookbackoption.cs" />
+    <Compile Include="HestonAsianoption.cs" />
+    <Compile Include="GeneratePath.cs" />
+    <Compile Include="HestonMC.cs" />
+    <Compile Include="Hestonformula.cs" />
     <Compile Include="Enums\CalibrationOutcome.cs" />
     <Compile Include="Heston.cs" />
     <Compile Include="Interfaces\IAsianOption.cs" />
@@ -60,13 +68,22 @@
     <Compile Include="Interfaces\IOption.cs" />
     <Compile Include="Interfaces\IOptionMarketData.cs" />
     <Compile Include="Enums\PayoffType.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SolversAndIntegrators.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md">
       <Link>README.md</Link>
     </None>
     <None Include="App.config" />
+    <None Include="bin\Debug\HestonModel.dll.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\HestonModel.csproj.CopyComplete" />
+    <None Include="obj\Debug\HestonModel.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\HestonModel.csprojAssemblyReference.cache" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -74,6 +91,21 @@
       <Project>{13D4EE49-7122-4A45-B4A4-FCF70AF15A3B}</Project>
       <Name>AlglibCSharpLib</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\AlglibCSharpLib.dll" />
+    <Content Include="bin\Debug\AlglibCSharpLib.pdb" />
+    <Content Include="bin\Debug\HestonModel.dll" />
+    <Content Include="bin\Debug\HestonModel.pdb" />
+    <Content Include="bin\Debug\MathNet.Numerics.dll" />
+    <Content Include="bin\Debug\MathNet.Numerics.xml" />
+    <Content Include="obj\Debug\HestonModel.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\HestonModel.dll" />
+    <Content Include="obj\Debug\HestonModel.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
