@@ -175,23 +175,7 @@ namespace HestonModel
         public double StrikePrice { get { return K; } }
         public double Maturity { get { return T; } }
     }
-    public class Hestoncalibrationresult : ICalibrationResult
-    {
-        private CalibrationOutcome minimizerStatus;
-        private double error;
-        public Hestoncalibrationresult()
-        {
-            this.minimizerStatus = CalibrationOutcome.FinishedOK;
-            this.error = 0.11000;
-        }
-        public Hestoncalibrationresult(CalibrationOutcome minimizerStatus, double error)
-        {
-            this.minimizerStatus = minimizerStatus;
-            this.error = error;
-        }
-        public CalibrationOutcome MinimizerStatus { get { return minimizerStatus; } }
-        public double PricingError { get { return error; } }
-    }
+        
     public class HestonCalibrationResult : IHestonCalibrationResult
     {
         private CalibrationOutcome minimizerStatus;

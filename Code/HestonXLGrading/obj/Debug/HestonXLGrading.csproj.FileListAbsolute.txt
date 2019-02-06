@@ -1,0 +1,15 @@
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\obj\Debug\HestonXLGrading.csprojAssemblyReference.cache
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\obj\Debug\HestonXLGrading.csproj.CoreCompileInputs.cache
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\HestonXLGrading.dll
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\HestonXLGrading.pdb
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\ExcelDna.Integration.dll
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\HestonModel.dll
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\AlglibCSharpLib.dll
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\MathNet.Numerics.dll
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\HestonModel.pdb
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\HestonModel.dll.config
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\AlglibCSharpLib.pdb
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\bin\Debug\MathNet.Numerics.xml
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\obj\Debug\HestonXLGrading.csproj.CopyComplete
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\obj\Debug\HestonXLGrading.dll
+C:\Temp\NotFixed\ytycmx\Code\HestonXLGrading\obj\Debug\HestonXLGrading.pdb

@@ -47,12 +47,14 @@ namespace HestonModel
             double error = 0;
             CalibrationOutcome outcome = CalibrationOutcome.NotStarted;
             calibrator.GetCalibrationStatus(ref outcome, ref error);
+            var calibratedModel = calibrator.GetCalibratedModel();
             Console.WriteLine("Calibration outcome: {0} and error: {1}", outcome, error);
-            IHestonCalibrationResult sss;
+            return new HestonCalibrationResult(outcome, error, new HestonParametersGrading(guessModelParameters.InitialStockPrice, guessModelParameters.RiskFreeRate,
+                calibratedModel.GetK(), calibratedModel.GetTheta(), calibratedModel.GetSigma(), calibratedModel.GetRho(), calibratedModel.GetNv()));
             /*foreach (CalibrationOutcome MinimizerStatus in sss)*/
             /*object[,] ansTable =*/
-            return sss;
         }
+
         /// <summary>
         /// Price a European option in the Heston model using the Heston formula. This should be accurate to 5 decimal places
         /// </summary>

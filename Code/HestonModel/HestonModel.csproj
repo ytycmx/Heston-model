@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="HestonModelParameters.cs" />
+    <Compile Include="HestonParametersGrading.cs" />
     <Compile Include="HestonRainbowoptionprice.cs" />
     <Compile Include="Hestoncalibrator.cs" />
     <Compile Include="HestonLookbackoption.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SolversAndIntegrators.cs" />
+    <Compile Include="VarianceProcessParametersGrading.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md">
